@@ -1,7 +1,7 @@
 # IPL-2021-2022-2023-Analysis
 
-# Welcome to the repository for our IPL 2024 Insights Magazine! This project aims to provide comprehensive and interactive 
-insights into the IPL seasons of 2021, 2022, and 2023 using Power BI.
+# Welcome to the repository. This project aims to provide comprehensive and interactive 
+# insights into the IPL seasons of 2021, 2022, and 2023 using Power BI.
 
 ## Project Overview
 
